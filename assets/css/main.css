@@ -653,4 +653,8 @@ button.contact_form_submit {
   height: 20px;
   width: 20px;
   top: 3px;
+}
+
+.contact-social ul {
+  display: none !important;
 }/*# sourceMappingURL=main.css.map */
