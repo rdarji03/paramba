@@ -850,3 +850,8 @@ $skills-animation-duration: 1.5s;
 .contact-social ul {
     display: none !important;
 }
+
+.nav-item .active {
+    border-bottom: 1px solid black;
+
+}

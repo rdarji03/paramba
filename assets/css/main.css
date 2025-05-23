@@ -657,4 +657,8 @@ button.contact_form_submit {
 
 .contact-social ul {
   display: none !important;
+}
+
+.nav-item .active {
+  border-bottom: 1px solid black;
 }/*# sourceMappingURL=main.css.map */
